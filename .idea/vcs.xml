@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/accumulators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/align" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/any" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/assert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/assign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cgal-cxx/includes/boost/libs/atomic" vcs="Git" />
+  </component>
+</project>
